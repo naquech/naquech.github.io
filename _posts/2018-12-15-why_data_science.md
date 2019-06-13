@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Why Data Science?
-date:       2018-12-15 02:52:14 -0500 
+title:      "Why Data Science"
+date:       2018-12-15 02:52:14 -0500
+permalink:  why data science
 ---
 
 <p>I have been exposed to various elements of Data Science for sometime now; statistics in high school, building a robot arm in my early 

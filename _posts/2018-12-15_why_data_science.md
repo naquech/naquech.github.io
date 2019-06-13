@@ -1,4 +1,7 @@
-# Why Data Science?  
+---
+layout: post
+title: Why Data Science?
+---
 
 <p>I have been exposed to various elements of Data Science for sometime now; statistics in high school, building a robot arm in my early 
 college days, developing applications and websites later. Completing a course about artificial intelligence at  the University of Helsinki
